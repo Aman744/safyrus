@@ -1826,6 +1826,7 @@ a:hover {
   line-height: 30px;
   color: #808080;
   padding-right: 20%;
+  text-align: justify;
 }
 .features-content h5 {
   font-size: 20px;
@@ -2470,9 +2471,12 @@ a:hover {
 }
 .footer h5 {
   font-family: "Fjalla One", sans-serif;
-  text-transform: uppercase;
   margin-bottom: 50px;
   color: #808080;
+}
+.footer h5 a{
+  text-decoration: none;
+  color: white;
 }
 .footer ul {
   display: inline-block;
