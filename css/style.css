@@ -65,6 +65,8 @@ body {
 
 html {
   height: 100%;
+  scroll-behavior: smooth;
+ 
 }
 
 /* HTML ELEMENTS */
@@ -1934,7 +1936,7 @@ a:hover {
 }
 .full-media-content .sides {
   flex: 1;
-  padding: 150px 0;
+  padding: 115px 0;
   position: relative;
 }
 .full-media-content .sides figure {
